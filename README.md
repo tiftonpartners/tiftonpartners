@@ -1,4 +1,4 @@
-# Senior .NET Full Stack Developer, available for hire!
+# Senior Software Engineer, available for hire!
 
 - Nearly 10 years building scalable web applications across logistics, finance, and enterprise systems  
 - Skilled in backend frameworks: **.NET Core, ASP.NET, Entity Framework**  
@@ -13,4 +13,4 @@
 
 Beyond coding, I focus on building systems that are reliable, maintainable, and scalable under real-world load. Experienced in both greenfield development and modernizing enterprise platforms.  
 
-I'm **available for hire**, so feel free to [get in touch](patterson.william.f@gmail.com).  
+I'm **available for hire**, so feel free to [get in touch].  
